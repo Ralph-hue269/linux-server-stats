@@ -1,4 +1,3 @@
-# linux-server-stats
 # Linux Server Stats
 
 A simple, dependency-free Bash script that analyzes basic performance stats on any Linux server — CPU, memory, disk, and top resource-consuming processes.
